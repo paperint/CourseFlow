@@ -18,17 +18,25 @@
     "session": "^0.1.0",
     "uuid": "^9.0.0"
   },
-  "name": "server",
+  "name": "CourseFlow",
   "version": "1.0.0",
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyabud/CourseFlow.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/Piyabud/CourseFlow/issues"
+  },
+  "homepage": "https://github.com/Piyabud/CourseFlow#readme"
 }
