@@ -20,8 +20,7 @@
   },
   "name": "CourseFlow",
   "version": "1.0.0",
-  "main": "app.js",
-  "type": "module",
+  "description": "",
   "scripts": {
     "build": "echo \"No build specified\" && exit 1",
     "test": "echo \"No test specified\" && exit 1",
@@ -31,10 +30,8 @@
     "type": "git",
     "url": "git+https://github.com/Piyabud/CourseFlow.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "bugs": {
     "url": "https://github.com/Piyabud/CourseFlow/issues"
   },
